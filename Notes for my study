@@ -1,0 +1,15 @@
+#How to ask for help
+?ggplot2
+
+
+#setting R path
+setwd("G:\\papers\\rs\\filename")
+getwd()
+
+#install R package
+install.packages("ggplot2")
+library(ggplot2)
+
+
+#remove file
+rm()
