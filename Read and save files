@@ -1,0 +1,2 @@
+＃read data
+data<-read.csv("filename.csv",header = T)
