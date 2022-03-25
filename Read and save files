@@ -1,2 +1,6 @@
 ＃read data
 data<-read.csv("filename.csv",header = T)
+
+#Save data
+pdf('name.pdf',width = 6,height = 6) 
+jpeg(filename = "name.jpg",width =10, height =10, units = "cm", pointsize =10,res =600)
